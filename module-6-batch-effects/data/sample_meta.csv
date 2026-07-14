@@ -1,0 +1,13 @@
+sample,condition,batch
+X01,ctrl,b1
+X02,ctrl,b1
+X03,ctrl,b1
+X04,ctrl,b2
+X05,ctrl,b2
+X06,ctrl,b2
+X07,case,b1
+X08,case,b1
+X09,case,b1
+X10,case,b2
+X11,case,b2
+X12,case,b2

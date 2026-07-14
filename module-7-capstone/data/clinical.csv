@@ -1,0 +1,13 @@
+sample_id,condition,batch,tissue
+T01,A,b1,lung
+T02,A,b2,colon
+T03,A,b1,breast
+T04,A,b2,colon
+T05,A,b1,breast
+T06,A,b2,colon
+T07,B,b1,lung
+T08,B,b2,breast
+T09,B,b1,breast
+T10,B,b2,lung
+T11,B,b1,colon
+T12,B,b2,breast
