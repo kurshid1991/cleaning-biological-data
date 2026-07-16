@@ -1,5 +1,4 @@
 # Module 1 — Handling Missing Values in Omics Data
-# Ties into: Computational Genomics with R
 library(naniar)      # visualise & summarise missingness
 library(missForest)  # random-forest imputation (use with care!)
 library(dplyr)
